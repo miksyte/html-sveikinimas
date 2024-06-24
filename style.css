@@ -1,0 +1,22 @@
+
+img{
+    width: 50%;
+    margin: 25% 25% 1% 25%;
+    border: 5px solid white;
+
+
+}
+body{
+    background-color:pink;
+}
+.poster{
+    color: white;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    h1{
+        text-transform: uppercase;
+    }
+
+}
+
+
